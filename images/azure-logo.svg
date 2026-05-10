@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-labelledby="title">
+  <title id="title">Azure Logo</title>
+  <rect width="160" height="120" fill="#fff"/>
+  <path fill="#0078d4" d="M67.3 13.5 28.6 92.4h34.8l57.8-10.2L91.6 13.5H67.3z"/>
+  <path fill="#50a7e8" d="M95.4 57.4 63.4 92.4h64.2L95.4 57.4z"/>
+  <path fill="#005ba1" d="M67.3 13.5 95.4 57.4 63.4 92.4 91.6 13.5H67.3z"/>
+</svg>
